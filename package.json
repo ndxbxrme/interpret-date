@@ -1,6 +1,6 @@
 {
   "name": "interpret-date",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "very fuzzy date parsing",
   "main": "build/index.js",
   "scripts": {

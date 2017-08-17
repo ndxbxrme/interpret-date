@@ -25,7 +25,6 @@ module.exports = (grunt) ->
     nodeunit:
       tests: ['build/test/**/*.js']
   grunt.registerTask 'build', [
-    'clean:build'
   ]
   grunt.registerTask 'default', [
     'build'
