@@ -1,0 +1,13 @@
+{
+  "generator-ndx": {
+    "filters": {
+      "appType": "cli",
+      "client": true,
+      "description": "very fuzzy date parsing",
+      "appName": "interpret-date",
+      "gitname": "ndxbxrme",
+      "gitemail": "lewis_the_cat@hotmail.com"
+    },
+    "appname": "github"
+  }
+}
